@@ -248,7 +248,7 @@
         center={[144.97, -37.81]}
         class="map flex-grow min-h-[500px]"
         standardControls
-        style="https://tiles.basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json"
+        style="https://basemaps.cartocdn.com/gl/positron-gl-style/style.json"
         bind:bounds
         zoom={14}
     >
